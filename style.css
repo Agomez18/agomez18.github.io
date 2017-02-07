@@ -1,0 +1,28 @@
+H1 {
+  front-wight: bold;
+  color: maroon;
+}
+
+H2,H3,H4 {
+  color: rosybrown;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  width: 65%;
+}
+
+.sidebar {
+  width: 33%;
+  padding: 2%;
+  background: lightgray;
+}
+
+img {
+  height: 30%;
+  border-radius: 50%;
+}
+ 
